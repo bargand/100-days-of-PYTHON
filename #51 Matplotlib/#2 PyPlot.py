@@ -8,6 +8,7 @@ plt.plot(a , b)
 plt.show()
 '''
 '''
+'''
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -22,4 +23,3 @@ plt.plot(x , y)
 plt.show()
 
 # x and y now contain the coordinates to plot the heart shape
-'''

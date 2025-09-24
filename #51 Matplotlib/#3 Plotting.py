@@ -26,5 +26,6 @@ plt.show()
 xplot = [1,3,5,8,0,3,6,2,8,9,3]
 yplot = [8,2,5,2,8,0,4,6,2,5,2]
 
-plt.plot(xplot, yplot, "y")
+# plt.plot(xplot, yplot, "y")
+plt.hist2d(xplot, yplot)
 plt.show()
